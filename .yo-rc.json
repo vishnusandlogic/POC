@@ -1,9 +1,0 @@
-{
-  "generator-teams": {
-    "promptValues": {
-      "developer": "Sandlogic"
-    },
-    "libraryName": "conversationalBot",
-    "generator-version": "4.1.0"
-  }
-}
