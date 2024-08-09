@@ -4,9 +4,6 @@ node_modules
 # do not include the package in Git
 package
 
-# do not include the local environment files
-.env
-
 # do not include the Connectors Json Db file
 connectors.json
 
